@@ -14,8 +14,8 @@ Its a Python and Selenium based scraper to scrape product reviews from a Walmart
 8) Calling ```scrape_details``` function. This function scrape details like only for dates after January 2021. When review-date reach December 2020 then this function is stopped from further scrapping.
 9) After this, all the scraped data is saved to ```output.csv``` file by help of ```savedata_closebrowser``` function.
 
-# Input
+# Input (Webpage fr Walmart product link:- https://www.walmart.com/ip/Clorox-Disinfecting-Wipes-225-Count-Value-Pack-Crisp-Lemon-and-Fresh-Scent-3-Pack-75-Count-Each/14898365)
 ![bandicam 2021-12-26 18-39-34-684](https://user-images.githubusercontent.com/71775151/147409161-d2de7b65-0931-4c80-b2d8-cdc874ebf512.jpg)
 
-# Output
+# Output (output.csv file)
 ![bandicam 2021-12-26 18-41-27-878](https://user-images.githubusercontent.com/71775151/147409165-6d466b96-88ad-4689-92a9-146849836f88.jpg)
